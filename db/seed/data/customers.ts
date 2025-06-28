@@ -1,7 +1,7 @@
 import { type InsertCustomer } from "../../schema/customers"
 
 // get this from your 1st user in clerk (dev mode)
-export const userId = "user_2y8Cx5ekKHYstsIdBVAj2ZYB6EV"
+export const userId = "user_2z9VoAevTVaktZ9gDBjH8PLiV1q"
 
 export const customersData: InsertCustomer[] = [
   {
